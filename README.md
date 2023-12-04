@@ -1,2 +1,2 @@
 # CodeForces
-Задачи CodeForces на Java
+Задачи CodeForces на Java с объяснением
